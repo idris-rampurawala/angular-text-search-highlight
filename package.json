@@ -1,6 +1,20 @@
 {
   "name": "angular-text-search-highlight",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Demonstration of a text search with highlighting in Angular 8",
+  "author": {
+    "name": "Idris Rampurawala",
+    "url": "https://github.com/idris-rampurawala",
+    "github": "https://github.com/idris-rampurawala",
+    "twitter": "https://twitter.com/idRampurawala"
+  },
+  "contributors": [
+    {
+      "name": "Idris Rampurawala",
+      "url": "https://github.com/idris-rampurawala"
+    }
+  ],
+  "license": "MIT",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",

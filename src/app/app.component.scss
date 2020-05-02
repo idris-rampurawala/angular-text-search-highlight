@@ -1,0 +1,62 @@
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card {
+  padding: 1.5rem;
+  border-width: 0.2rem;
+  border: solid #f8f9fa;
+  position: relative;
+  margin: 1rem 1rem;
+  min-width: 500px;
+}
+.form-group {
+  margin-bottom: 1rem;
+  label {
+    display: inline-block;
+    margin-bottom: 0.5rem;
+  }
+  .form-control {
+    display: block;
+    width: -webkit-fill-available;
+    height: calc(1em + 0.75rem);
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    input {
+      margin: 0;
+      font-family: inherit;
+      overflow: visible;
+      letter-spacing: normal;
+      word-spacing: normal;
+      text-transform: none;
+      text-indent: 0px;
+      text-shadow: none;
+      text-align: start;
+      -webkit-appearance: textfield;
+      cursor: text;
+    }
+  }
+}
+.list-group {
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  padding-left: 0;
+  margin-bottom: 0;
+  .list-group-item {
+    position: relative;
+    display: block;
+    padding: 0.75rem 1.25rem;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+  }
+}
