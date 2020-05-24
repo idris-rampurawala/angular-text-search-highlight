@@ -2,6 +2,8 @@
 
 > This project is a demonstration of implementing a text filter with highlighting in Angular 8
 
+You can find an in-depth article on this implementation [here](https://dev.to/idrisrampurawala/creating-a-search-filter-in-angular-562d).
+
 ## Installation
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
