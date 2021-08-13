@@ -55,5 +55,5 @@ export class AppComponent {
     'X-Men',
     'Zatanna',
     'Zatara',
-  ]
+  ];
 }
