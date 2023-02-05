@@ -116,6 +116,5 @@
         }
       }
     }
-  },
-  "defaultProject": "angular-text-search-highlight"
+  }
 }
