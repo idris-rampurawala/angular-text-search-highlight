@@ -7,7 +7,7 @@ You can find an in-depth article on this implementation [here](https://dev.to/id
 
 ## Installation
 
-This project runs with [Angular CLI](https://github.com/angular/angular-cli) version 11 or higher.
+This project runs with [Angular CLI](https://github.com/angular/angular-cli) version 14 or higher.
 
 - Clone the repository `git clone <repo-name>`
 - Install dependencies via `npm i`
